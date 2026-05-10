@@ -60,7 +60,8 @@ import pygridmet as gridmet
 import requests
 from pathlib import Path
 
-INPUT_CSV = r"C:\Users\mikes\OneDrive\Documents\GitHub\TRBLSummarizer\TRBLSummarizer\Data\TRBL Analysis tracking - Sites.csv"
+#INPUT_CSV = r"C:\Users\mikes\OneDrive\Documents\GitHub\TRBLSummarizer\TRBLSummarizer\Data\TRBL Analysis tracking - Sites.csv"
+INPUT_CSV = "TRBL Analysis tracking - Sites.csv"
 OUTPUT_CSV = "trbl_sites_gridmet_weather.csv"
 FAILED_CSV = "gridmet_failed_sites.csv"
 
@@ -210,7 +211,7 @@ def main():
     # Decide which sites to process:
     # - if FAILED_CSV exists, retry only those
     # - otherwise, use the full TRBL sites CSV
-    if False: #failed_path.exists():
+    if failed_path.exists():
         print(f"Found {FAILED_CSV}; retrying only failed sites from previous run.")
         sites = pd.read_csv(failed_path)
         using_failed_file = True

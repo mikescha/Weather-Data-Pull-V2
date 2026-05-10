@@ -1,0 +1,211 @@
+Id,Name,Number of Recordings,Latitude,Longitude,Altitude,Timezone,Skip,Group
+2059,2017 Rush Ranch,9979,38.2080,-122.0140,6,America/Los_Angeles,,Solano County
+3150,2018 Iron Point,1988,38.6470,-121.1040,172,America/Los_Angeles,,Iron Point
+3348,2018 Markham Ravine Main,2165,38.8897,-121.4653,19,America/Los_Angeles,,Markham Ravine
+3366,2018 Markham Ravine westside,818,38.8896,-121.4693,17,America/Los_Angeles,Dupe,Markham Ravine
+3281,2018 Red Wing Ranch,2245,38.9622,-121.3453,33,America/Los_Angeles,,Placer County
+2719,2018 Rush Ranch,9043,38.2080,-122.0140,6,America/Los_Angeles,,Solano County
+82621,2018 SJWA WSS,1984,33.8690,-117.0860,434,America/Los_Angeles,,San Jacinto Wildlife Area
+3417,2018 SJWA-rose-1,242,33.8690,-117.0860,434,America/Los_Angeles,Dupe,San Jacinto Wildlife Area
+3682,2018 SJWA-rose-2,1154,33.8625,-117.0716,435,America/Los_Angeles,,San Jacinto Wildlife Area
+5642,2019 Colusa NWR 27-1,5489,39.1441,-122.0293,14,America/Los_Angeles,,Sacramento National Wildlife Refuge Complex
+4554,2019 Colusa NWR 27-1 LG,156,39.1441,-122.0293,14,America/Los_Angeles,Y,Sacramento National Wildlife Refuge Complex
+5639,2019 Colusa NWR 27-1 telemetry station AM,2597,39.1370,-122.0260,13,America/Los_Angeles,Y,Sacramento National Wildlife Refuge Complex
+5643,2019 Colusa NWR 27-2,1853,39.1375,-122.0281,13,America/Los_Angeles,,Sacramento National Wildlife Refuge Complex
+4455,2019 Creed Road,8258,38.2410,-121.8880,12,America/Los_Angeles,,Solano County
+4456,2019 Hay Landfill,6681,38.3060,-121.8250,6,America/Los_Angeles,,Solano County
+4979,2019 Iron Point,7109,38.6470,-121.1040,172,America/Los_Angeles,,Iron Point
+4457,2019 Iron Point LG,2149,38.6470,-121.1040,172,America/Los_Angeles,Y,Iron Point
+5613,2019 Laguna Seca,852,36.5840,-121.7560,228,America/Los_Angeles,Y,Monterey
+4251,2019 Laguna Seca LG,2123,36.5843,-121.7560,229,America/Los_Angeles,Y,Monterey
+4639,2019 Leisure Town,8075,38.3199,-121.9380,28,America/Los_Angeles,,Solano County
+5637,2019 Markham Ravine,4251,38.8897,-121.4653,17,America/Los_Angeles,,Markham Ravine
+5640,2019 Markham Ravine 2,4247,38.8866,-121.4653,21,America/Los_Angeles,,Markham Ravine
+4491,2019 Markham Ravine 2 LG,1452,38.8866,-121.4653,21,America/Los_Angeles,Y,Markham Ravine
+4492,2019 Markham Ravine LG,5164,38.8897,-121.4653,17,America/Los_Angeles,Y,Markham Ravine
+5609,2019 Ohlone - Santa Lucia Preserve - AM,199,36.4692,-121.7937,318,America/Los_Angeles,Y,Monterey
+4247,2019 Ohlone - Santa Lucia Preserve LG,2774,36.4692,-121.7937,308,America/Los_Angeles,Y,Monterey
+28863,2019 Ohlone - Santa Lucia Preserve try 2,3828,36.4692,-121.7937,318,America/Los_Angeles,Y,Monterey
+82630,2019 Red Wing Ranch,1148,38.9781,-121.3310,33,America/Los_Angeles,,Placer County
+5638,2019 Rush Ranch,10399,38.2080,-122.0140,6,America/Los_Angeles,,Solano County
+4188,2019 Rush Ranch LG,6618,38.2080,-122.0140,6,America/Los_Angeles,Y,Solano County
+7657,2020 Conaway Ranch,1901,38.6390,-121.7090,9,America/Los_Angeles,,Central Sacramento Valley
+2908,2020 Creed Road,5524,38.2410,-121.8880,12,America/Los_Angeles,,Solano County
+57589,2020 Fort Ord,3621,36.5900,-121.7140,55,America/Los_Angeles,,Monterey
+16223,2020 Fort Ord - Old,2732,36.5898,-121.7140,55,America/Los_Angeles,Y,Monterey
+6199,2020 Hay Landfill,5499,38.3060,-121.8250,6,America/Los_Angeles,,Solano County
+7650,2020 Iron Point,4014,38.6470,-121.1040,172,America/Los_Angeles,,Iron Point
+6404,2020 Markham Ravine,1808,38.8897,-121.4653,19,America/Los_Angeles,,Markham Ravine
+18572,2020 Ohlone - Santa Lucia Preserve,4240,36.4692,-121.7937,318,America/Los_Angeles,,Monterey
+2915,2020 Rush Ranch,5497,38.2080,-121.0140,54,America/Los_Angeles,,Solano County
+24130,2021 Colusa NWR 27-1,8731,39.1440,-122.0280,14,America/Los_Angeles,,Sacramento National Wildlife Refuge Complex
+24221,2021 Colusa NWR 27-2,8621,39.1370,-122.0260,13,America/Los_Angeles,,Sacramento National Wildlife Refuge Complex
+21652,2021 Conaway East,3297,38.6386,-121.7070,9,America/Los_Angeles,Dupe,Central Sacramento Valley
+24652,2021 Conaway South,3298,38.6376,-121.7090,9,America/Los_Angeles,,Central Sacramento Valley
+21591,2021 Conaway West,3387,38.6390,-121.7100,9,America/Los_Angeles,Dupe,Central Sacramento Valley
+21681,2021 Creed Road,6874,38.2410,-121.8880,12,America/Los_Angeles,,Solano County
+24122,2021 Dagnino Pond,5324,37.7459,-121.7440,180,America/Los_Angeles,,CNLM
+21668,2021 Foley Ranch,2958,39.0769,-121.4940,21,America/Los_Angeles,,Central Sacramento Valley
+21688,2021 Hale Road 2,2957,39.0839,-121.5160,18,America/Los_Angeles,,Central Sacramento Valley
+11101,2021 Hay Landfill,5970,38.3060,-121.8250,6,America/Los_Angeles,,Solano County
+24658,2021 Iron Point,6708,38.6470,-121.1040,172,America/Los_Angeles,,Iron Point
+24606,2021 Kern 1,8142,35.6770,-118.2700,815,America/Los_Angeles,,Southern Sierra Research Station
+24544,2021 Kern 2,7882,35.6200,-118.4760,756,America/Los_Angeles,,Southern Sierra Research Station
+24641,2021 Kern 3,8030,35.7310,-118.1720,862,America/Los_Angeles,,Southern Sierra Research Station
+24655,2021 Kern 4,7854,35.6660,-118.3070,805,America/Los_Angeles,,Southern Sierra Research Station
+26534,2021 Kern 5,7911,35.6600,-118.3120,803,America/Los_Angeles,,Southern Sierra Research Station
+26535,2021 Kern 6,7880,35.3955,-118.4490,1150,America/Los_Angeles,,Southern Sierra Research Station
+26536,2021 Kern 7,7547,35.6710,-118.2900,809,America/Los_Angeles,,Southern Sierra Research Station
+26432,2021 Markham Ravine,3894,38.8897,-121.4653,19,America/Los_Angeles,,Markham Ravine
+24252,2021 Orchard Creek,5465,38.8467,-121.3061,28,America/Los_Angeles,,Placer County
+24233,2021 Panoche Creek Preserve 1W,7507,36.5906,-120.7690,314,America/Los_Angeles,,CNLM
+24232,2021 Panoche Creek Preserve 2E,7507,36.5907,-120.7650,307,America/Los_Angeles,,CNLM
+21537,2021 Plumas Arboga,1515,39.0296,-121.5370,17,America/Los_Angeles,,Central Sacramento Valley
+24119,2021 Rancho Jamul,4997,32.6846,-116.8560,234,America/Los_Angeles,,Rancho Jamul
+24651,2021 Reeds Creek North,1155,39.1079,-121.5070,21,America/Los_Angeles,,Central Sacramento Valley
+24653,2021 Reeds Creek South,1155,39.1049,-121.5070,21,America/Los_Angeles,,Central Sacramento Valley
+24231,2021 Rodeo Grounds 1,3954,38.8627,-121.2879,52,America/Los_Angeles,,Placer County
+24549,2021 Rush Ranch,6857,38.2080,-122.0140,6,America/Los_Angeles,,Solano County
+11100,2021 Sedgwick,3941,34.6950,-120.0420,343,America/Los_Angeles,,Sedgwick
+25171,2021 SJWA,2026,33.8625,-117.0720,434,America/Los_Angeles,,San Jacinto Wildlife Area
+24107,2021 Willey Wetlands 1,4915,38.7777,-121.5639,6,America/Los_Angeles,Dupe,CNLM
+24261,2021 Willey Wetlands 2,4914,38.7751,-121.5639,6,America/Los_Angeles,,CNLM
+24263,2021 Willey Wetlands 3,4523,38.7743,-121.5636,6,America/Los_Angeles,Dupe,CNLM
+24790,2021 Wind Wolves Preserve,6481,34.9574,-119.1320,750,America/Los_Angeles,,Wind Wolves Preserve
+34485,2022 Baja 1,7507,32.5380,-116.3180,972,America/Tijuana,,Baja
+53136,2022 Baja 2,8238,32.5380,-116.3180,972,America/Tijuana,Dupe,Baja
+34044,2022 Colusa NWR T27.1,7178,39.1410,-122.0280,14,America/Los_Angeles,,Sacramento National Wildlife Refuge Complex
+34079,2022 Colusa NWR T27.2,7736,39.1374,-122.0260,14,America/Los_Angeles,,Sacramento National Wildlife Refuge Complex
+34115,2022 Conaway East,7183,38.6460,-121.6940,10,America/Los_Angeles,,Central Sacramento Valley
+34111,2022 Conaway New Easement Pond West,4743,38.6389,-121.7090,9,America/Los_Angeles,,Central Sacramento Valley
+34112,2022 Conaway North,7898,38.6547,-121.6860,8,America/Los_Angeles,,Central Sacramento Valley
+34113,2022 Conaway North A,7900,38.6547,-121.6860,8,America/Los_Angeles,Dupe,Central Sacramento Valley
+34078,2022 Creed Road,13269,38.2410,-121.8880,12,America/Los_Angeles,,Solano County
+34118,2022 Foley Ranch A,3101,39.0769,-121.4940,21,America/Los_Angeles,,Central Sacramento Valley
+34119,2022 Foley Ranch B,3104,39.0769,-121.4940,21,America/Los_Angeles,Dupe,Central Sacramento Valley
+33966,2022 Hay Landfill,14468,38.3060,-121.8250,6,America/Los_Angeles,,Solano County
+34077,2022 Laguna Seca,8109,36.5718,-121.7680,117,America/Los_Angeles,,Monterey
+34117,2022 Los Vaqueros Reservoir,3898,37.8377,-121.6960,82,America/Los_Angeles,,Los Vaqueros
+34076,2022 Marsh Creek Reservoir,3904,37.8884,-121.7260,51,America/Los_Angeles,,Los Vaqueros
+34075,2022 Newberry Springs - Lake Wainani,575,34.8773,-116.6060,549,America/Los_Angeles,,San Bernardino
+34090,2022 Ohlone - Santa Lucia Preserve,10658,36.4692,-121.7937,318,America/Los_Angeles,,Monterey
+33851,2022 OR1,7373,44.72275,-121.23785,482,America/Los_Angeles,,Oregon
+34073,2022 OR2,5785,44.37166,-120.92661,888,America/Los_Angeles,,Oregon
+34071,2022 Paicines Ranch - Teal Pond,8369,36.7136,-121.2960,192,America/Los_Angeles,,CNLM
+34072,2022 Paicines Ranch - Teal Pond B,7658,36.7136,-121.2960,192,America/Los_Angeles,Dupe,CNLM
+52597,2022 Panoche Creek Preserve Loc3,6990,36.5910,-120.5910,207,America/Los_Angeles,,CNLM
+52598,2022 Panoche Creek Preserve Loc4,1644,36.5910,-120.7690,319,America/Los_Angeles,,CNLM
+34130,2022 Panoche Creek Preserve Loc5,5040,36.5910,-120.7690,319,America/Los_Angeles,,CNLM
+34012,2022 Plumas Arboga East,7896,39.0374,-121.5340,18,America/Los_Angeles,,Central Sacramento Valley
+34013,2022 Plumas Arboga West,6897,39.0374,-121.5370,18,America/Los_Angeles,Dupe,Central Sacramento Valley
+34131,2022 Private Site 1 - not real lat lon,3239,37.0000,-120.0000,92,America/Los_Angeles,,Dairies
+34133,2022 Private Site 2 - not real lat lon,932,37.0000,-120.0000,92,America/Los_Angeles,,Dairies
+34132,2022 Private Site 3 - not real lat lon,3228,37.0000,-120.0000,92,America/Los_Angeles,,Dairies
+34045,2022 Rancho Jamul,8547,,,236,America/Los_Angeles,,Rancho Jamul
+33985,2022 Sedgwick,7703,34.6950,-120.0420,343,America/Los_Angeles,,Sedgwick
+34046,2022 SJWA,3457,33.8627,-117.0730,435,America/Los_Angeles,,San Jacinto Wildlife Area
+33984,2022 WA Harder Spring,7984,46.6572,-118.4990,276,America/Los_Angeles,,Washington
+33845,2022 WA1,4754,46.8521,-119.1830,283,America/Los_Angeles,,Washington
+25861,2022 WC-WR1,4607,38.6620,-121.1770,55,America/Los_Angeles,Y,Bob's Sites
+34088,2022 Wind Wolves Preserve Pleitito Creek,5469,34.9536,-119.1407,801,America/Los_Angeles,,Wind Wolves Preserve
+34087,2022 Wind Wolves Preserve Santiago Wetlands,12613,34.9391,-119.2964,740,America/Los_Angeles,,Wind Wolves Preserve
+48395,2023 Baja Rancho Cinega,9353,32.5380,-116.3180,972,America/Tijuana,,Baja
+48438,2023 Bridge St Pond,1295,33.8625,-117.0720,434,America/Los_Angeles,,San Jacinto Wildlife Area
+48455,2023 Colusa NWR T27.1,4397,39.1410,-122.0280,13,America/Los_Angeles,,Sacramento National Wildlife Refuge Complex
+58629,2023 Colusa NWR T27.2,4398,39.1375,-122.0280,14,America/Los_Angeles,,Sacramento National Wildlife Refuge Complex
+48453,2023 Colusa NWR T27.2 - partial,3571,39.1375,-122.0280,14,America/Los_Angeles,Y,Bob's Sites
+48473,2023 Conaway Ranch - HQ,3024,38.6478,-121.6680,8,America/Los_Angeles,,Central Sacramento Valley
+48474,2023 Conaway Ranch NE,3317,38.6535,-121.6700,8,America/Los_Angeles,,Central Sacramento Valley
+48477,2023 Conaway Ranch North 1,2518,38.6512,-121.6870,9,America/Los_Angeles,,Central Sacramento Valley
+48476,2023 Conaway Ranch North 2,3167,38.6546,-121.6850,9,America/Los_Angeles,,Central Sacramento Valley
+48462,2023 Creed Rd,9724,38.2410,-121.8880,12,America/Los_Angeles,,Solano County
+48454,2023 Delevan NWR T43.1,4546,39.2787,-122.1040,18,America/Los_Angeles,,Sacramento National Wildlife Refuge Complex
+48877,2023 Delevan NWR T43.2,8760,39.2785,-122.0980,18,America/Los_Angeles,,Sacramento National Wildlife Refuge Complex
+48472,2023 Delevan T6,4019,39.3267,-122.1150,20,America/Los_Angeles,,Sacramento National Wildlife Refuge Complex
+48463,2023 Hale Road,5826,39.0835,-121.5120,19,America/Los_Angeles,,Central Sacramento Valley
+48468,2023 Hale Road Site 2,6331,39.0834,-121.5120,19,America/Los_Angeles,Dupe,Central Sacramento Valley
+48457,2023 Iron Point,7570,38.6470,-121.1040,172,America/Los_Angeles,,Iron Point
+48434,2023 Kentucky Lateral,2664,38.6717,-121.7100,9,America/Los_Angeles,,Central Sacramento Valley
+48467,2023 Kern - Canebreak Ecological Reserve 4,5603,35.7315,-118.1660,875,America/Los_Angeles,,Southern Sierra Research Station
+48470,2023 Kern - HQ2,7192,35.6669,-118.3080,804,America/Los_Angeles,,Southern Sierra Research Station
+48459,2023 Laguna Fry Confluence - 45 Sump,3897,38.4731,-121.2760,29,America/Los_Angeles,,Central Sacramento Valley
+48465,2023 Laguna Fry Confluence - Site 1,2894,38.4863,-121.2790,29,America/Los_Angeles,,Central Sacramento Valley
+48396,2023 Leguna Seca,1,36.5718,-121.7680,117,America/Los_Angeles,Y,Monterey
+48428,2023 Los Vaqueros - Walnut Trail Marsh,6544,37.8594,-121.6990,53,America/Los_Angeles,,Los Vaqueros
+48444,2023 Los Vaqueros Reservoir,9255,37.8377,-121.6960,82,America/Los_Angeles,,Los Vaqueros
+48436,2023 Markham Ravine,4529,38.8896,-121.4660,18,America/Los_Angeles,,Markham Ravine
+48435,2023 Markham Ravine first part,710,38.8897,-121.4640,18,America/Los_Angeles,Y,Markham Ravine
+48446,2023 Merced NWR - Cottonwood,2522,37.1918,-120.6020,34,America/Los_Angeles,,Merced and San Luis NWR
+48490,2023 Merced NWR Deadman Wetland Ditch,2511,37.1853,-120.6360,31,America/Los_Angeles,,Merced and San Luis NWR
+48448,2023 North Regional Pond,4520,38.6639,-121.7120,10,America/Los_Angeles,,Central Sacramento Valley
+48397,2023 OR Dizney Rd,5551,44.72275,-121.23785,481,America/Los_Angeles,,Oregon
+48392,2023 OR Eureka Rd,6196,44.57821,-121.19382,769,America/Los_Angeles,,Oregon
+48445,2023 OR Prineville North,5544,44.36467,-120.91805,888,America/Los_Angeles,,Oregon
+48796,2023 Panoche Creek Preserve - Corrals NW,3162,36.5879,-120.7670,318,America/Los_Angeles,Dupe,CNLM
+48797,2023 Panoche Creek Preserve - Corrals SE,3161,36.5875,-120.7650,320,America/Los_Angeles,,CNLM
+48440,2023 Peterson Ranch Pond - East,8203,34.6324,-118.3180,1030,America/Los_Angeles,,San Bernardino
+48461,2023 Peterson Ranch Pond - West,8202,34.6331,-118.3200,1030,America/Los_Angeles,Dupe,San Bernardino
+48475,2023 Plumas Arboga 2,3089,39.0338,-121.5240,19,America/Los_Angeles,,Central Sacramento Valley
+48437,2023 Plumas Arboga 8 - North Regional Pond,5611,39.0430,-121.5310,18,America/Los_Angeles,,Central Sacramento Valley
+48764,2023 Rancho Jamul North Pond - fix lat lon,9321,,,236,America/Los_Angeles,,Rancho Jamul
+48765,2023 Rancho Jamul Site 1 fix lat lon,9045,,,236,America/Los_Angeles,,Rancho Jamul
+48447,2023 San Luis Bear Creek,2735,37.2393,-120.8210,26,America/Los_Angeles,,Merced and San Luis NWR
+48464,2023 San Luis NWR - West Bank Creek,3376,37.2663,-120.8340,24,America/Los_Angeles,,Merced and San Luis NWR
+48466,2023 Sedgwick,9000,34.6950,-120.0420,343,America/Los_Angeles,,Sedgwick
+48478,2023 South Virginia Road 3,4026,39.0639,-121.4800,22,America/Los_Angeles,,Central Sacramento Valley
+48456,2023 Virginia at Ostrom,4101,39.0769,-121.4940,21,America/Los_Angeles,,Central Sacramento Valley
+48398,2023 WA Harder Spring,8707,46.6573,-118.5000,278,America/Los_Angeles,,Washington
+48393,2023 WA McCain Wetlands,8577,46.8515,-119.1830,283,America/Los_Angeles,,Washington
+48747,2023 Weagell Property 1,4323,38.4859,-121.2760,30,America/Los_Angeles,,Central Sacramento Valley
+48458,2023 Weagell Property 2,3898,38.4859,-121.2750,29,America/Los_Angeles,Dupe,Central Sacramento Valley
+48439,2023 West of Davis,3877,33.8493,-117.1290,434,America/Los_Angeles,,San Jacinto Wildlife Area
+48471,2023 Wind Wolves Preserve site 1,7856,34.9490,-119.2150,793,America/Los_Angeles,,Wind Wolves Preserve
+48469,2023 Wind Wolves Preserve Site 2,7858,34.9395,-119.2967,901,America/Los_Angeles,,Wind Wolves Preserve
+65444,2024 Baja Lago Mesa Redonda,6739,32.3730,-116.8790,503,America/Tijuana,,Baja
+65446,2024 Baja Rancho Cinega Redonda 1,8446,32.5380,-116.3180,972,America/Tijuana,,Baja
+65447,2024 Baja Rancho Cinega Redonda 2,7172,32.5320,-116.3180,969,America/Tijuana,,Baja
+65453,2024 Colusa NWR T27.1,9453,39.1410,-122.0280,14,America/Los_Angeles,,Sacramento National Wildlife Refuge Complex
+65454,2024 Colusa NWR T27.2,6825,39.1375,-122.0280,14,America/Los_Angeles,,Sacramento National Wildlife Refuge Complex
+65455,2024 Delevan T43,0,39.2799,-122.1050,18,America/Los_Angeles,Y,Sacramento National Wildlife Refuge Complex
+63115,2024 Dublin Ranch Preserve - Lin Livermore Conservation Area,6184,37.7463,-121.7430,182,America/Los_Angeles,,CNLM
+65456,2024 Kern 1 - check lat lon,9029,35.6700,-118.3070,804,America/Los_Angeles,,Southern Sierra Research Station
+63044,2024 Los Vaqueros Reservoir,7227,37.8377,-121.6960,82,America/Los_Angeles,,Los Vaqueros
+63085,2024 Markham Ravine 1,1221,38.8897,-121.4590,19,America/Los_Angeles,,Markham Ravine
+63088,2024 Markham Ravine 2,1224,38.8898,-121.4620,18,America/Los_Angeles,Dupe,Markham Ravine
+63113,2024 Markham Ravine 3,1229,38.8897,-121.4650,18,America/Los_Angeles,Dupe,Markham Ravine
+63114,2024 Merced NWR - Cottonwood Trail,5612,37.1989,-120.5990,34,America/Los_Angeles,,Merced and San Luis NWR
+63087,2024 Moore Lake - confirm lat lon,5912,36.4589,-121.7990,411,America/Los_Angeles,,Monterey
+66012,2024 Newberry Springs,1639,34.8770,-116.6060,549,America/Los_Angeles,,San Bernardino
+77023,2024 North Regional Pond,3374,38.6640,-121.7120,10,America/Los_Angeles,,Central Sacramento Valley
+63049,2024 Ohlone - Santa Lucia Preserve,5908,36.4692,-121.7937,318,America/Los_Angeles,,Monterey
+63086,2024 OR Eureka Lane,5110,44.57821,-121.19382,769,America/Los_Angeles,,Oregon
+65471,2024 Panoche Creek Preserve - Dollar Marsh East,7788,36.5905,-120.7694,313,America/Los_Angeles,,CNLM
+65469,2024 Panoche Creek Preserve - Dollar Marsh South,7736,36.5892,-120.7707,317,America/Los_Angeles,Dupe,CNLM
+65470,2024 Panoche Creek Preserve - Dollar Marsh West,7790,36.5919,-120.7723,315,America/Los_Angeles,Dupe,CNLM
+63656,2024 Rancho Jamul - Main Pond 1,9409,,,236,America/Los_Angeles,,Rancho Jamul
+63657,2024 Rancho Jamul - Main Pond 2,7386,,,236,America/Los_Angeles,Dupe,Rancho Jamul
+63468,2024 Rancho Jamul - North Pond,6096,,,236,America/Los_Angeles,,Rancho Jamul
+63738,2024 Sedgwick,8740,34.6950,-120.0420,343,America/Los_Angeles,,Sedgwick
+63089,2024 SJWA Thistle NW of Bridge Street Pond,1224,33.8624,-117.0760,435,America/Los_Angeles,,San Jacinto Wildlife Area
+63116,2024 WA Harder Spring,9452,46.6570,-118.4990,276,America/Los_Angeles,,Washington
+63465,2024 WA McCain Pond,9011,48.8520,-119.1830,1244,America/Los_Angeles,,Washington
+65481,2024 Wind Wolves Preserve - Los Lobos,9322,34.9490,-119.2150,665,America/Los_Angeles,,Wind Wolves Preserve
+65482,2024 Wind Wolves Preserve - Pleitito,7337,34.9536,-119.1407,817,America/Los_Angeles,,Wind Wolves Preserve
+65483,2024 Wind Wolves Preserve - Santiago,8187,34.9391,-119.2964,741,America/Los_Angeles,,Wind Wolves Preserve
+65480,2024 Wind Wolves Preserve - Tevis,9174,34.9446,-119.2040,901,America/Los_Angeles,,Wind Wolves Preserve
+48479,Bad - 2022 Panoche Creek Loc 4,1644,36.5910,-120.7690,100,America/Los_Angeles,Y,Bad/Delete
+48881,Bad - 2022 Panoche Creek loc 4 try2,1644,36.5910,-120.7690,100,America/Los_Angeles,Y,Bad/Delete
+52596,Bad - 2022 Panoche Creek Preserve Loc3,0,36.5910,-120.5910,100,America/Los_Angeles,Y,Bad/Delete
+44956,Bad - Delete 2023 Panoche Creek - corrals SE,3164,36.5875,-120.7650,100,America/Los_Angeles,Y,Bad/Delete
+44867,Bad Delete - 2023 Panoche Creek - Corrals NW,3162,36.5879,-120.7670,100,America/Los_Angeles,Y,Bad/Delete
+48880,Bad Delete - Panoche Creek - Corrals SE try 2,3163,36.5875,-120.7650,100,America/Los_Angeles,Y,Bad/Delete
+48879,Bad Delete 2023 Panoche Creek - Corrals NW try 2,3162,36.5879,-120.7670,100,America/Los_Angeles,Y,Bad/Delete
+34486,Bad time - delete - 2022 Baja 2,8235,32.5380,-116.3180,100,America/Tijuana,Y,Bad/Delete
+48878,Old - 2022 Panoche Creek Preserve loc3,6992,36.5910,-120.5910,100,America/Los_Angeles,Y,Bad/Delete
+53734,TestAM01,2,38.0000,-122.0000,0,America/Los_Angeles,Y,Bad/Delete
+53733,TestAM22,0,38.0000,-122.0000,0,America/Los_Angeles,Y,Bad/Delete
+53732,TestAM77,0,38.0000,-121.0000,0,America/Los_Angeles,Y,Bad/Delete
+8066,testing,242,,,0,Etc/GMT,Y,Bad/Delete
+32016,Testing Data 2021 RG1,227,38.8630,-121.2870,50,America/Los_Angeles,Y,Bad/Delete
+32010,Training Data 2021 PA,21,39.0300,-121.5370,17,America/Los_Angeles,#N/A,Bad/Delete
+32015,Training data 2021 RG1,227,38.8630,-121.2870,50,America/Los_Angeles,#N/A,Bad/Delete
